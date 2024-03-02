@@ -45,7 +45,7 @@ namespace RainbowTags
         [Description("A collection of group names with their respective color sequences.")]
         public Dictionary<string, string[]> Sequences { get; set; } = new Dictionary<string, string[]>
         {
-            ["owner"] = new[]
+            ["vip"] = new[]
             {
                 "red",
                 "orange",
